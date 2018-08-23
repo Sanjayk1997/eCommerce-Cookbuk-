@@ -1,0 +1,44 @@
+.param{
+  background-color: orange;
+  padding: 1%;
+
+}
+
+.param p{
+  display: inline;
+}
+
+.midpage{
+  background-color: beige;
+  padding-bottom: 2%;
+}
+
+.card{
+  margin: 2%;
+  padding: 2%;
+  background-color: grey !important;
+  color: white;
+  visibility: hidden;
+}
+
+.card-text{
+  color: orange;
+}
+
+.rating{
+  font-size: small;
+}
+
+.btn{
+  background-color: orange !important;
+  border-color: orange !important;
+  color: black !important;
+}
+
+.btn:hover{
+  background-color: brown !important;
+  color: beige !important;
+}
+
+footer{
+}

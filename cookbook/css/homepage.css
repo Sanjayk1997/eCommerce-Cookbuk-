@@ -1,0 +1,67 @@
+.jumbotron{
+  background-color: orange !important;
+  text-align: center;
+  color: white;
+  margin: 0 !important;
+}
+
+.midpage{
+  width: 100%;
+  background-color: #1e1f21;
+  margin: 0 !important;
+  display: inline-block;
+}
+
+.data2{
+  background-color: beige;
+  display: inline-block;
+}
+
+.whyus{
+  margin: 3%;
+  padding-right: 50%;
+}
+
+.carcontainer{
+  float: left;
+  padding: 2%;
+  width: 30%;
+  height: 20%;
+}
+
+.carousel img{
+  border-radius: 5px;
+}
+
+.about{
+  text-align: center;
+  margin: 3%;
+  color: white;
+}
+
+.about p{
+  text-align: center;
+  margin: 2%;
+  padding-left: 30%;
+}
+
+.start{
+  padding: 2%;
+  color: beige;
+}
+
+.data {
+  background-color:#1e1f21;
+}
+
+.form-control{
+  margin-bottom: 1%;
+}
+
+.btn{
+  margin-bottom: 2%;
+}
+
+footer {
+  height: 100%;
+}
